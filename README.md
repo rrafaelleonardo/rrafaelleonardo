@@ -3,19 +3,19 @@
 
 ---
 
-<a target="_blank" href="https://www.linkedin.com/in/rrafaelleonardo/"> 
+<a target="_white" href="https://www.linkedin.com/in/rrafaelleonardo/"> 
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 </a> 
-<a target="_blank" href="https://t.me/rrafaeleonardo"> 
+<a target="_white" href="https://t.me/rrafaeleonardo"> 
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> 
 </a> 
-<a target="_blank" href="https://chat.whatsapp.com/LXRKURGkFnhDIzOE42nxsv"> 
+<a target="_white" href="https://chat.whatsapp.com/LXRKURGkFnhDIzOE42nxsv"> 
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> 
 </a> 
-<a target="_blank" href="https://www.instagram.com/leo.rrafael/"> 
+<a target="_white" href="https://www.instagram.com/leo.rrafael/"> 
 <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
 </a> 
-<a target="_blank" href="mailto:insights.bi.analytics@gmail.com"> 
+<a target="_white" href="mailto:insights.bi.analytics@gmail.com"> 
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> 
 </a></br></br>
 
