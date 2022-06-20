@@ -3,19 +3,19 @@
 
 ---
 
-<a target="_white" href="https://www.linkedin.com/in/rrafaelleonardo/"> 
+<a target="_black" href="https://www.linkedin.com/in/rrafaelleonardo/"> 
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 </a> 
-<a target="_white" href="https://t.me/rrafaeleonardo"> 
+<a target="_black" href="https://t.me/rrafaeleonardo"> 
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> 
 </a> 
-<a target="_white" href="https://chat.whatsapp.com/LXRKURGkFnhDIzOE42nxsv"> 
+<a target="_black" href="https://chat.whatsapp.com/LXRKURGkFnhDIzOE42nxsv"> 
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> 
 </a> 
-<a target="_white" href="https://www.instagram.com/leo.rrafael/"> 
+<a target="_black" href="https://www.instagram.com/leo.rrafael/"> 
 <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> 
 </a> 
-<a target="_white" href="mailto:insights.bi.analytics@gmail.com"> 
+<a target="_black" href="mailto:insights.bi.analytics@gmail.com"> 
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> 
 </a></br></br>
 
@@ -25,7 +25,7 @@
 - Eu gosto de estudar sobre novas tecnologias e oportunidades 
 - Eu foco o meu tempo em aprender cada dia mais sobre Análise de dados para obter insights e tomada de decisão 
 - Você pode ler meus artigos em: https://medium.com/@insights.bi.analytics 
-- Você pode ver meu portfólio pessoal em: em andamento
+- Você pode ver meu portfólio pessoal em: https://sites.google.com/view/portiflio-leonardo/home
 - Todos os meus projetos estão disponíveis no https://github.com/rrafaelleonardo 
 - Aberto há colaborações.</br>
 
